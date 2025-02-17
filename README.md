@@ -38,10 +38,8 @@
         <form>
             <label for="name">:</label>
             <input type="text" id="name" name="name" required>
-            
             <label for="book">:</label>
             <input type="text" id="book" name="book" required>
-            
             <button type="submit"></button>
         </form>
     </div>
